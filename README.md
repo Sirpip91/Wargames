@@ -30,8 +30,8 @@ The graphics and animations for the software are made with JavaFX.
 
 # Screenshot
 
-<img src = "" width= "1000" >
+<img src = "img/wargames.PNG" width= "500" >
  
- # UML
+ # Flow Diagram
  
- <img src = "" width= "500" >
+ <img src = "img/WarGames_FlowDiagram.PNG" width= "1000" >

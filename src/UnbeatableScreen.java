@@ -1,8 +1,5 @@
 /*
  * Bradley Allen 
- * COSC 1337
- * November 21 2021
- * Group Project WarGames
  * 
  * This project is inspired by the 1983 classic WarGames. 
  * In order to stop WWIII, you need to convince government computers that sometimes there is no winner.
@@ -12,7 +9,7 @@
 1.	Animations for win, lose, and draw
 3.	A beginner difficulty AI that plays any random square not yet taken
 6.	Make a game tracker that counts player wins and loses
-7.	Add dialogue to the AI that has him ìtrash talkî after each play
+7.	Add dialogue to the AI that has him ‚Äútrash talk‚Äù after each play
  
  *
 This class is the unbeatable scene / game mode
